@@ -1,0 +1,6 @@
+
+class Opportunities {
+private:
+
+public:
+};
