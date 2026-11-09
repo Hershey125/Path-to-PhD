@@ -1,4 +1,3 @@
-
 class Skill {
 private:
 
