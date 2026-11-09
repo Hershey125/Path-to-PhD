@@ -1,0 +1,8 @@
+
+class Skill {
+private:
+
+public:
+
+
+};
